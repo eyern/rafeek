@@ -811,7 +811,8 @@ section {
 }
 
 .about-boxes .card-text {
-  color: #5e5e5e;
+  color: #000;
+  font-weight: 500;
 }
 
 .about-boxes .card:hover .card-icon i {
